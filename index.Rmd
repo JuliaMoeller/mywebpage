@@ -1,5 +1,6 @@
 ---
-title: "Julia Moeller, MSc student of Research Methods of Psychological Science"
+title: "Julia Moeller "
+subtitle: "MSc student of Research Methods of Psychological Science"
 ---
 
 I am a postgraduate student in the University of Glasgow's
