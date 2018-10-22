@@ -6,4 +6,9 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "My First Webpage"
+  title: "Julia Moeller"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: CV.html
